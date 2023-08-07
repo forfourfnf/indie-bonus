@@ -1,0 +1,50 @@
+{
+	"storyName": "Bonus songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Dad Battle",
+			"sans",
+			[
+				135,
+				141,
+				147
+			]
+		],
+		[
+			"Spookeez",
+			"sans",
+			[
+				70,
+				82,
+				94
+			]
+		],
+		[
+			"South",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"sans",
+		"fun",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 2"
+}
