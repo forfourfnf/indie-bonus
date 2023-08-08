@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="BoyFriend_Cuphead.png">
+<TextureAtlas imagePath="BoyFriend_DA.png">
 	<!-- Created with Adobe Animate version 21.0.1.37179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="0BF attack instance 10000" x="10" y="10" width="386" height="373" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400"/>
@@ -37,6 +37,30 @@
 	<SubTexture name="BF NOTE DOWN MISS instance 10001" x="5219" y="420" width="375" height="393" frameX="-2" frameY="0" frameWidth="378" frameHeight="393"/>
 	<SubTexture name="BF NOTE DOWN MISS instance 10002" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
 	<SubTexture name="BF NOTE DOWN MISS instance 10003" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10004" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10005" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10006" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10007" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10008" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10009" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10010" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10011" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10012" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10013" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10014" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10015" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10016" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10017" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10018" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10019" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10020" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10021" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10022" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10023" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10024" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10025" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10026" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
+	<SubTexture name="BF NOTE DOWN MISS instance 10027" x="5604" y="420" width="378" height="389" frameX="0" frameY="-4" frameWidth="378" frameHeight="393"/>
 	<SubTexture name="BF NOTE DOWN instance 10000" x="5992" y="420" width="391" height="346" frameX="0" frameY="-26" frameWidth="391" frameHeight="374"/>
 	<SubTexture name="BF NOTE DOWN instance 10001" x="6393" y="420" width="372" height="362" frameX="-7" frameY="-12" frameWidth="391" frameHeight="374"/>
 	<SubTexture name="BF NOTE DOWN instance 10002" x="6393" y="420" width="372" height="362" frameX="-7" frameY="-12" frameWidth="391" frameHeight="374"/>
@@ -273,7 +297,6 @@
 	<SubTexture name="BF idle dance instance 10010" x="4023" y="1821" width="407" height="409" frameX="-17" frameY="0" frameWidth="437" frameHeight="409"/>
 	<SubTexture name="BF idle dance instance 10011" x="4023" y="1821" width="407" height="409" frameX="-17" frameY="0" frameWidth="437" frameHeight="409"/>
 	<SubTexture name="BF idle dance instance 10012" x="4440" y="1821" width="407" height="409" frameX="-17" frameY="0" frameWidth="437" frameHeight="409"/>
-	<SubTexture name="BF idle dance instance 10013" x="4440" y="1821" width="407" height="409" frameX="-17" frameY="0" frameWidth="437" frameHeight="409"/>
 	<SubTexture name="boyfriend dodge instance 10000" x="4857" y="1821" width="376" height="406" frameX="-3" frameY="0" frameWidth="381" frameHeight="406"/>
 	<SubTexture name="boyfriend dodge instance 10001" x="5243" y="1821" width="376" height="406" frameX="-3" frameY="0" frameWidth="381" frameHeight="406"/>
 	<SubTexture name="boyfriend dodge instance 10002" x="5629" y="1821" width="381" height="403" frameX="0" frameY="-2" frameWidth="381" frameHeight="406"/>

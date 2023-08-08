@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				-5,
 				0
 			],
 			"anim": "idle",
@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-21,
+				-23,
 				23
 			],
 			"anim": "singLEFTmiss",
@@ -25,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-30,
+				-35,
 				-16
 			],
 			"anim": "singDOWNmiss",
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-50,
+				-56,
 				20
 			],
 			"anim": "singUPmiss",
@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-55,
+				-59,
 				25
 			],
 			"anim": "singRIGHTmiss",
@@ -58,7 +58,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				50,
+				44,
 				50
 			],
 			"anim": "hurt",
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-19,
-				-4
+				-20,
+				-6
 			],
 			"anim": "dodge",
 			"fps": 24,
@@ -90,7 +90,7 @@
 		},
 		{
 			"offsets": [
-				-50,
+				-56,
 				57
 			],
 			"loop": false,
@@ -136,7 +136,7 @@
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
-		-10,
+		-15,
 		353
 	],
 	"healthicon": "bf",
@@ -147,8 +147,8 @@
 		209
 	],
 	"camera_position": [
-		540,
-		-10
+		550,
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -1,122 +1,166 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				22,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Normal instance 1"
+		},
+		{
+			"offsets": [
+				5,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Normal instance 1"
+		},
+		{
 			"loop": false,
 			"offsets": [
-				130,
-				5
+				-41,
+				-133
+			],
+			"anim": "You've got this",
+			"fps": 24,
+			"name": "You've got this instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-41
+			],
+			"anim": "ugh lowblow",
+			"fps": 24,
+			"name": "ugh lowblow instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-115
+			],
+			"anim": "Transformation",
+			"fps": 24,
+			"name": "Transformation instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				123,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Oblivion Bendy instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-52
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left Oblivion instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-127
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Left instance",
+			"name": "Left instance 1",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				1,
-				-28
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down instance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				40,
-				110
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Up instance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				23
+				-50,
+				-124
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Right instance",
+			"name": "Right Normal instance 1",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				0,
-				0
+				77,
+				-49
 			],
-			"indices": [],
+			"anim": "singDOWN-alt",
 			"fps": 24,
-			"anim": "idle",
+			"name": "Down Oblivion instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-24
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right Oblivion instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				44
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Oblivion instance 1",
+			"indices": []
+		},
+		{
 			"loop": true,
-			"name": "1 instance"
-		},
-		{
 			"offsets": [
-				20,
-				0
+				-69,
+				-90
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "attack",
-			"loop": false,
-			"name": "Roundattack instance"
-		},
-		{
-			"offsets": [
-				110,
-				-10
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "ouch",
-			"loop": false,
-			"name": "Ouch instance"
-		},
-		{
-			"offsets": [
-				0,
-				-12
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "die",
-			"loop": false,
-			"name": "DIE BITCH instance"
-		},
-		{
-			"offsets": [
-				340,
-				248
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "hadoken",
-			"loop": false,
-			"name": "Hadoken!! instance"
+			"anim": "idle",
+			"fps": 25,
+			"name": "Idle Normal instance 1",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/gfChristmas",
 	"position": [
-		50,
-		410
+		30,
+		140
 	],
-	"healthicon": "gf",
+	"healthicon": "pico",
 	"flip_x": false,
 	"healthbar_colors": [
-		171,
-		22,
-		74
+		35,
+		41,
+		47
 	],
 	"camera_position": [
-		-230,
-		-20
+		100,
+		130
 	],
-	"sing_duration": 6.1,
-	"scale": 1.5
+	"sing_duration": 5.5,
+	"scale": 1.3
 }
