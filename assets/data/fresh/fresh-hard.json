@@ -36,9 +36,9 @@
 				80688.4615384615,
 				[
 					[
-						"Alt Idle Animation",
-						"Dad",
-						"-alt"
+						"Change Character",
+						"dad",
+						"bendy-da-phase2"
 					]
 				]
 			],
@@ -5599,13 +5599,13 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "gf-christmas"
+		"player2": "gf-christmas",
 		"gfVersion": "gf",
 		"player3": "gf",
-		"song": "Fresh"
+		"song": "Fresh",
 		"arrowSkin": "",
 		"validScore": true,
-		"stage": "stage"
+		"stage": "stage",
 		"needsVoices": true,
 		"noteStyle": "normal",
 		"bpm": 130,
