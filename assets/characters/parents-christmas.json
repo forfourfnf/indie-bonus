@@ -2,265 +2,198 @@
 	"animations": [
 		{
 			"offsets": [
-				2,
+				-8,
 				0
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Parent Christmas Idle",
-			"indices": []
+			"indices": [],
+			"name": "Idle instance 1"
 		},
 		{
-			"offsets": [
-				-47,
-				24
-			],
 			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Parent Up Note Dad",
-			"indices": []
-		},
-		{
 			"offsets": [
-				-31,
-				-29
+				136,
+				6
 			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Parent Down Note Dad",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				16
-			],
-			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Parent Left Note Dad",
+			"name": "left instance 1",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-1,
-				-23
-			],
 			"loop": false,
+			"offsets": [
+				29,
+				-95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fzt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				108
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-54
+			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Parent Right Note Dad",
+			"name": "Right copy instance 1",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-1,
-				-24
-			],
 			"loop": false,
-			"anim": "singRIGHT-alt",
-			"fps": 24,
-			"name": "Parent Right Note Mom",
-			"indices": []
-		},
-		{
 			"offsets": [
-				-30,
-				-27
+				57,
+				1
 			],
-			"loop": false,
-			"anim": "singDOWN-alt",
+			"anim": "idle-alt",
 			"fps": 24,
-			"name": "Parent Down Note Mom",
+			"name": "That's ma boi instance 1",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-30,
-				15
-			],
 			"loop": false,
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "Parent Left Note Mom",
-			"indices": []
-		},
-		{
 			"offsets": [
-				-47,
-				24
-			],
-			"loop": false,
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "Parent Up Note Mom",
-			"indices": []
-		},
-		{
-			"offsets": [
-				2,
+				180,
 				0
 			],
-			"indices": [
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "jghrue instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-90
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				90
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ISTG instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "upahgn instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				43
+			],
+			"anim": "Let's go",
+			"fps": 24,
+			"name": "Sans lessgo instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-90
+			],
+			"anim": "Wake Up",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
 				10,
-				11,
-				12,
-				13
+				-30
 			],
+			"anim": "Bruh",
 			"fps": 24,
-			"anim": "idle-loop",
-			"loop": true,
-			"name": "Parent Christmas Idle"
+			"name": "Bruh instance 1",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-47,
-				24
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "singUP-loop",
 			"loop": true,
-			"name": "Parent Up Note Dad"
+			"offsets": [
+				81,
+				-33
+			],
+			"anim": "Mad",
+			"fps": 24,
+			"name": "gzezy instance 1",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
-				-30,
-				16
+				82,
+				-20
 			],
-			"indices": [
-				12,
+			"anim": "More Mad",
+			"fps": 24,
+			"name": "Even more Mad instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
 				13,
-				14,
-				15
+				72
 			],
+			"anim": "!",
 			"fps": 24,
-			"anim": "singLEFT-loop",
-			"loop": true,
-			"name": "Parent Left Note Dad"
-		},
-		{
-			"offsets": [
-				-31,
-				-29
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"loop": true,
-			"name": "Parent Down Note Dad"
-		},
-		{
-			"offsets": [
-				-1,
-				-23
-			],
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"loop": true,
-			"name": "Parent Right Note Dad"
-		},
-		{
-			"offsets": [
-				-1,
-				-24
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singRIGHT-alt-loop",
-			"loop": true,
-			"name": "Parent Right Note Mom"
-		},
-		{
-			"offsets": [
-				-47,
-				24
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "singUP-alt-loop",
-			"loop": true,
-			"name": "Parent Up Note Mom"
-		},
-		{
-			"offsets": [
-				-30,
-				15
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singLEFT-alt-loop",
-			"loop": true,
-			"name": "Parent Left Note Mom"
-		},
-		{
-			"offsets": [
-				-30,
-				-27
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singDOWN-alt-loop",
-			"loop": true,
-			"name": "Parent Down Note Mom"
+			"name": "Oh Sans you Mother fuc-",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/mom_dad_christmas_assets",
 	"position": [
-		-500,
-		0
+		20,
+		160
 	],
 	"healthicon": "parents",
 	"flip_x": false,
 	"healthbar_colors": [
-		196,
-		94,
-		174
+		171,
+		22,
+		74
 	],
 	"camera_position": [
 		0,
-		0
+		-100
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"sing_duration": 4.00000000000001,
+	"scale": 1.3
 }
