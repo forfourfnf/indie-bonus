@@ -1,155 +1,142 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-5,
-				0
+				-9,
+				10
 			],
-			"anim": "idle",
+			"loop": false,
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "Dad Sing Note LEFT",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-23,
-				23
+				0,
+				-30
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
+			"name": "Dad Sing Note DOWN",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-35,
-				-16
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-56,
-				20
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF NOTE UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-59,
-				25
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				44,
+				-6,
 				50
 			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-20,
-				-4
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				-36
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN instance 1"
-		},
-		{
-			"offsets": [
-				-56,
-				57
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP instance 1"
-		},
-		{
-			"offsets": [
-				-39,
-				3
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT instance 1"
-		},
-		{
-			"offsets": [
-				25,
-				-3
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT instance 1"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1094,
-				-9
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "0BF attack",
+			"name": "Dad Sing Note UP",
 			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BoyFriend_Rain",
+	"image": "characters/DADDY_DEAREST",
 	"position": [
-		-15,
-		352
+		0,
+		0
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "dad",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		175,
+		102,
+		206
 	],
 	"camera_position": [
-		550,
-		-10
+		0,
+		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

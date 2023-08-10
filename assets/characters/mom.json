@@ -1,144 +1,78 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Sans FNF instance"
+			"fps": 24,
+			"name": "Mom Idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				49,
-				0
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				250,
+				-23
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left instance"
+			"fps": 24,
+			"name": "Mom Left Pose",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-12,
-				-16
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down instance"
-		},
-		{
 			"offsets": [
-				-18,
-				27
+				10,
+				-60
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Up instance"
-		},
-		{
-			"offsets": [
-				-18,
-				-1
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right instance"
+			"fps": 24,
+			"name": "Mom Pose Left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-18,
-				-1
-			],
 			"loop": false,
+			"offsets": [
+				20,
+				-160
+			],
+			"anim": "singDOWN",
 			"fps": 24,
-			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "Right 02 instance"
+			"name": "MOM DOWN POSE",
+			"indices": []
 		},
 		{
-			"offsets": [
-				49,
-				0
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "Left 02 instance"
-		},
-		{
 			"offsets": [
-				-12,
-				-15
+				14,
+				71
 			],
-			"loop": false,
+			"anim": "singUP",
 			"fps": 24,
-			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "Down 02 instance"
-		},
-		{
-			"offsets": [
-				36,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP-alt",
-			"indices": [],
-			"name": "Up 02 instance"
-		},
-		{
-			"offsets": [
-				-15,
-				-1
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle-alt",
-			"indices": [],
-			"name": "Sans FNF 02 instance"
-		},
-		{
-			"offsets": [
-				98,
-				24
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "dodge",
-			"loop": false,
-			"name": "SansDodge"
+			"name": "Mom Up Pose",
+			"indices": []
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/Mom_Assets",
 	"position": [
 		0,
-		200
+		0
 	],
-	"healthicon": "sans",
+	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		0,
-		0
+		216,
+		85,
+		142
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1
 }

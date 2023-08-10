@@ -1,166 +1,193 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				22,
-				-146
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down Normal instance 1"
-		},
-		{
-			"offsets": [
-				5,
-				-10
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Up Normal instance 1"
-		},
-		{
 			"loop": false,
 			"offsets": [
-				-41,
-				-133
+				1,
+				0
 			],
-			"anim": "You've got this",
+			"anim": "cheer",
 			"fps": 24,
-			"name": "You've got this instance 1",
+			"name": "GF Cheer",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-90,
-				-41
-			],
-			"anim": "ugh lowblow",
-			"fps": 24,
-			"name": "ugh lowblow instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-73,
-				-115
-			],
-			"anim": "Transformation",
-			"fps": 24,
-			"name": "Transformation instance 1",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				123,
-				-1
-			],
-			"anim": "idle-alt",
-			"fps": 24,
-			"name": "Oblivion Bendy instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				152,
-				-52
-			],
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "Left Oblivion instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				122,
-				-127
+				0,
+				-19
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Left instance 1",
+			"name": "GF left note",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-50,
-				-124
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Right Normal instance 1",
+			"name": "GF Right Note",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				77,
-				-49
+				-2,
+				-21
 			],
-			"anim": "singDOWN-alt",
+			"anim": "sad",
 			"fps": 24,
-			"name": "Down Oblivion instance 1",
-			"indices": []
+			"name": "gf sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
 		},
 		{
 			"loop": false,
 			"offsets": [
-				60,
-				-24
+				0,
+				-9
 			],
-			"anim": "singRIGHT-alt",
+			"anim": "danceLeft",
 			"fps": 24,
-			"name": "Right Oblivion instance 1",
-			"indices": []
+			"name": "GF Dancing Beat",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-32,
-				44
+				0,
+				-9
 			],
-			"anim": "singUP-alt",
+			"anim": "danceRight",
 			"fps": 24,
-			"name": "Up Oblivion instance 1",
-			"indices": []
+			"name": "GF Dancing Beat",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair Landing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
 		},
 		{
 			"loop": true,
 			"offsets": [
-				-69,
-				-90
+				-2,
+				-17
 			],
-			"anim": "idle",
-			"fps": 25,
-			"name": "Idle Normal instance 1",
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF FEAR",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/gfChristmas",
 	"position": [
-		30,
-		140
+		0,
+		0
 	],
-	"healthicon": "pico",
+	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		35,
-		41,
-		47
+		165,
+		0,
+		77
 	],
 	"camera_position": [
-		100,
-		130
+		0,
+		0
 	],
-	"sing_duration": 5.5,
-	"scale": 1.3
+	"sing_duration": 4,
+	"scale": 1
 }

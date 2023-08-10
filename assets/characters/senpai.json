@@ -1,70 +1,26 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				554,
-				102
+				1,
+				0
 			],
-			"anim": "intro",
-			"fps": 24,
-			"name": "Intro instance 1",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				281,
-				-64
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-70,
-				-182
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				27,
-				4
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Up instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				-155
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-201,
-				-39
-			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Sammy Idle instance 1",
+			"name": "Senpai Idle",
 			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SENPAI UP NOTE"
 		},
 		{
 			"offsets": [
@@ -73,50 +29,50 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "Axe Attack",
+			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Axe attack instance 1"
+			"name": "SENPAI RIGHT NOTE"
 		},
 		{
 			"offsets": [
-				-70,
-				-130
+				40,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "End1",
+			"anim": "singLEFT",
 			"indices": [],
-			"name": "End Part01 instance 1"
+			"name": "SENPAI LEFT NOTE"
 		},
 		{
 			"offsets": [
-				-40,
-				-12
+				14,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "End2",
+			"anim": "singDOWN",
 			"indices": [],
-			"name": "End02 instance 1"
+			"name": "SENPAI DOWN NOTE"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/senpai",
 	"position": [
-		0,
-		0
+		150,
+		360
 	],
 	"healthicon": "senpai-pixel",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		0,
-		0
+		255,
+		170,
+		111
 	],
 	"camera_position": [
-		-530,
-		0
+		-240,
+		-330
 	],
-	"sing_duration": 4.00000000000001,
-	"scale": 1.5
+	"sing_duration": 4,
+	"scale": 6
 }
