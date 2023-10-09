@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf-pixel",
+		"player1": "bf-car",
 		"events": [
 			[
 				0,
@@ -63,7 +63,7 @@
 				]
 			]
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gone",
 		"player2": "senpai",
 		"notes": [
 			{
@@ -652,13 +652,13 @@
 						41812.5,
 						4,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						41906.25,
 						6,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": false
@@ -725,7 +725,7 @@
 						42375,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						42375,
@@ -736,13 +736,13 @@
 						43125,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						42750,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -814,25 +814,25 @@
 						43500,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						44250,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						43875,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						44625,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -904,19 +904,19 @@
 						45000,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						45375,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						46125,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -963,13 +963,13 @@
 						46500,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						46875,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1280,19 +1280,19 @@
 						54375,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						54750,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						55125,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1344,19 +1344,19 @@
 						55500,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						56250,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						56625,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1428,25 +1428,25 @@
 						57000,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						57375,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						57750,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						58125,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1513,13 +1513,13 @@
 						58500,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						59250,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1536,49 +1536,49 @@
 						60000,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						60187.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						60375,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						60562.5,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						60750,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						60937.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						61125,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						61312.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1595,43 +1595,43 @@
 						61593.75,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						61781.25,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						62156.25,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						62250,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						62531.25,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						62718.75,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						62812.5,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1648,43 +1648,43 @@
 						63093.75,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						63281.25,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						63468.75,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						63750,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						63937.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						64218.75,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						64312.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1701,43 +1701,43 @@
 						64687.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						64875,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						64968.75,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						65062.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						65250,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						65343.75,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						65625,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -1787,7 +1787,7 @@
 						71812.5,
 						6,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": false
@@ -1824,7 +1824,7 @@
 						73312.5,
 						7,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": false
@@ -1871,7 +1871,7 @@
 						74812.5,
 						4,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": false
@@ -1913,7 +1913,7 @@
 						75375,
 						6,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						75000,
@@ -1934,7 +1934,7 @@
 						75937.5,
 						7,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": false
@@ -1951,7 +1951,7 @@
 						77812.5,
 						6,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": false
@@ -1983,25 +1983,25 @@
 						78375,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						78562.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						79125,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						79312.5,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						79312.5,
@@ -2053,37 +2053,37 @@
 						79500,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						79687.5,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						79875,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						80062.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						80437.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						80812.5,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -2135,19 +2135,19 @@
 						81375,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						81937.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						82312.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						82125,
@@ -2169,7 +2169,7 @@
 						83812.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -2231,25 +2231,25 @@
 						84187.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						84281.25,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						84375,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						84562.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -2266,7 +2266,7 @@
 						86812.5,
 						6,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": false
@@ -2313,43 +2313,43 @@
 						87000,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						87187.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						87375,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						87562.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						87937.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						88125,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						88312.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						87750,
@@ -2401,31 +2401,31 @@
 						89062.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						89250,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						89531.25,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						89718.75,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						89812.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -2452,7 +2452,7 @@
 						90187.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						90375,
@@ -2463,13 +2463,13 @@
 						90562.5,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						90937.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						91125,
@@ -2496,7 +2496,7 @@
 						92625,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -2548,31 +2548,31 @@
 						93000,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						93187.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						93375,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						93562.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						93937.5,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					]
 				],
 				"mustHitSection": true
@@ -2614,37 +2614,37 @@
 						94500,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						94687.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						94875,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						95062.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						95250,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						95812.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						95250,
@@ -2806,7 +2806,7 @@
 						102750,
 						5,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						102937.5,
@@ -2822,7 +2822,7 @@
 						103312.5,
 						7,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						103312.5,
@@ -2848,25 +2848,25 @@
 						103875,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						104250,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						104625,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						104812.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						104062.5,
@@ -2917,25 +2917,25 @@
 						105750,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						105937.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						106125,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						106312.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						105000,
@@ -2971,37 +2971,37 @@
 						106687.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						107062.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						106875,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						106500,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						107250,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						107437.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						106500,
@@ -3022,13 +3022,13 @@
 						107625,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						107812.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						107625,
@@ -3199,7 +3199,7 @@
 						114750,
 						5,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						114937.5,
@@ -3215,7 +3215,7 @@
 						115312.5,
 						7,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						115312.5,
@@ -3241,25 +3241,25 @@
 						115875,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						116250,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						116625,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						116812.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						116062.5,
@@ -3310,25 +3310,25 @@
 						117750,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						117937.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						118125,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						118312.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						117000,
@@ -3364,37 +3364,37 @@
 						118687.5,
 						2,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						119062.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						118875,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						118500,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						119250,
 						3,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						119437.5,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						118500,
@@ -3415,13 +3415,13 @@
 						119625,
 						1,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						119812.5,
 						0,
 						0,
-						"BendySplashNote"
+						"Hurt Note"
 					],
 					[
 						119625,
@@ -3952,7 +3952,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": null,
+		"player3": "gone",
 		"song": "Bopeebo",
 		"stage": "philly",
 		"needsVoices": true,
