@@ -2668,6 +2668,26 @@
 				"bpm": 118,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 118,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 118,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"gfVersion": "gf",
@@ -2679,6 +2699,7 @@
 		"stage": "mall",
 		"speed": 2,
 		"bpm": 118,
-		"hide_girlfriend": true
+		"hide_girlfriend": true,
+		"player3": "gf"
 	}
 }
