@@ -1,122 +1,166 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				7,
-				0
+				-180,
+				-140
 			],
+			"loop": true,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF IDLE"
+			"name": "BF idle dance copy 2"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				280,
+				10
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "BF LEFT MISS",
-			"indices": []
+			"anim": "attack",
+			"indices": [],
+			"name": "Attack instance 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-207,
+				15
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "BF LEFT NOTE",
-			"indices": []
+			"anim": "attack2",
+			"indices": [],
+			"name": "Attack instance 2"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-180,
+				-172
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "BF UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF UP NOTE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF RIGHT NOTE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF DOWN NOTE",
-			"indices": []
+			"indices": [],
+			"name": "BF NOTE DOWN copy 2 instance 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-210,
+				-80
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "BF DOWN MISS",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-199,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-132,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-199,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-135,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-176,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Ouch instance 1"
+		},
+		{
+			"offsets": [
+				-181,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-216,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP copy 2 instance 1"
+		},
+		{
+			"offsets": [
+				-167,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge instance 1"
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/bfPixel",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf-pixel",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		123,
-		214,
-		246
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		50,
-		-60
+		240,
+		-150
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1.7
 }

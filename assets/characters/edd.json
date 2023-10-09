@@ -2,137 +2,136 @@
 	"animations": [
 		{
 			"offsets": [
-				2,
-				0
+				150,
+				200
 			],
-			"loop": false,
+			"loop": true,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "EddIdle",
-			"indices": []
+			"indices": [],
+			"name": "Nightmare SANS Idle instance 1"
 		},
 		{
 			"offsets": [
-				-16,
-				24
+				285,
+				116
 			],
 			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Leftt instance 1"
+		},
+		{
+			"offsets": [
+				73,
+				256
+			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "EddUp",
-			"indices": []
+			"indices": [],
+			"name": "UPP instance 1"
 		},
 		{
 			"offsets": [
-				28,
-				-69
+				181,
+				107
 			],
 			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rightt instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				186
+			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "EddDown",
+			"name": "DOWNN instance 1",
 			"indices": []
 		},
 		{
-			"offsets": [
-				41,
-				-4
-			],
-			"loop": false,
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "EddLeft",
-			"indices": []
-		},
-		{
-			"offsets": [
-				9,
-				-3
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "EddRight",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-1,
-				-24
-			],
-			"loop": false,
-			"anim": "singRIGHT-alt",
-			"fps": 24,
-			"name": "EddSideRight",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				-27
-			],
-			"loop": false,
-			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "EddSideDown",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				15
-			],
-			"loop": false,
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "EddSideLeft",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-47,
-				24
-			],
-			"loop": false,
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "EddSideUp",
-			"indices": []
-		},
-		{
-			"offsets": [
-				2,
-				0
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "idle-loop",
 			"loop": true,
-			"name": "EddIdle"
+			"offsets": [
+				285,
+				116
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Leftt instance 1",
+			"indices": [
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
-				-47,
-				24
+				181,
+				107
 			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Rightt instance 1",
 			"indices": [
-				10,
-				11,
-				12,
-				13
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				151,
+				186
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "DOWNN instance 1",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
 			]
 		}
 	],
+	"no_antialiasing": false,
 	"image": "characters/eddwitmore",
-	"scale": 1,
-	"sing_duration": 4,
-	"healthicon": "edd",
 	"position": [
+		0,
+		0
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
 		0,
 		0
 	],
@@ -140,11 +139,6 @@
 		0,
 		0
 	],
-	"flip_x": false,
-	"no_antialiasing": false,
-	"healthbar_colors": [
-		51,
-		173,
-		51
-	]
+	"sing_duration": 4.00000000000001,
+	"scale": 1
 }
