@@ -14,7 +14,7 @@
 	"songs": [
 		[
 			"Monster",
-			"parents",
+			"monster",
 			[
 				165,
 				19,
@@ -23,7 +23,7 @@
 		],
 		[
 			"Pico",
-			"parents",
+			"edd",
 			[
 				41,
 				72,
@@ -32,7 +32,7 @@
 		],
 		[
 			"Philly Nice",
-			"parents",
+			"tord",
 			[
 				255,
 				255,
