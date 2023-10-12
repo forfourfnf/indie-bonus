@@ -3,76 +3,142 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "Mom Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				250,
-				-23
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-60
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Mom Pose Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				-160
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MOM DOWN POSE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				14,
-				71
+				145,
+				257
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
+			"name": "Goose Up",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				136
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Goose Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Goose Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				84
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Goose Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				251
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Gose Up Dank",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				134
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Gose Left Dank",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Goose Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				49
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Gose Down Dank",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				67
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Gose Right Dank",
+			"indices": []
+		},
+		{
+			"offsets": [
+				154,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Gose Idle Dank"
+		},
+		{
+			"offsets": [
+				151,
+				246
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "Goose MLG Anim",
+			"indices": [],
+			"name": "Goose MLG Anim"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Mom_Assets",
 	"position": [
-		0,
-		0
+		150,
+		290
 	],
 	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		0,
-		0
+		-180,
+		-70
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.00000000000001
 }

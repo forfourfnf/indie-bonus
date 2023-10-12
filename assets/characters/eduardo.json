@@ -1,78 +1,111 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
-			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "EduardoIdle",
+			"name": "Sans instance",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-17,
-				24
+				128
 			],
-			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "EduardoUp",
+			"name": "Up instance",
 			"indices": []
 		},
 		{
-			"offsets": [
-				18,
-				-19
-			],
 			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "EduardoDown",
-			"indices": []
-		},
-		{
 			"offsets": [
-				10,
-				-4
+				100,
+				-51
 			],
-			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "EduardoLeft",
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				77
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AAAAA instance",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-11,
-				-3
+				-18,
+				13
 			],
 			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "EduardoRight",
+			"anim": "hey",
+			"indices": [],
+			"name": "Ded instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				-107
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Table sfx instance",
 			"indices": []
 		}
 	],
+	"no_antialiasing": false,
 	"image": "characters/eduardo",
-	"scale": 1,
-	"sing_duration": 4,
-	"healthicon": "edd",
 	"position": [
-		-500,
-		0
+		-80,
+		260
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"flip_x": false,
-	"no_antialiasing": false,
-	"healthbar_colors": [
-		0,
-		53,
-		0
-	]
+	"sing_duration": 4,
+	"scale": 1.3
 }
